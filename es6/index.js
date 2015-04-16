@@ -17,6 +17,6 @@ export default (function(args) {
   try {
     return JSON.parse(read(path).toString());
   } catch (e) {
-    throw new Error(`Could not be parse: ${path}`);
+    throw new Error(`Could not parse: ${path}`);
   }
 })(process.argv);
