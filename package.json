@@ -1,0 +1,19 @@
+{
+  "name": "parse-config",
+  "version": "1.0.0",
+  "description": "ES6 module for exporting a parsed JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damonmcminn/parse-config.git"
+  },
+  "author": "Damon McMinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damonmcminn/parse-config/issues"
+  },
+  "homepage": "https://github.com/damonmcminn/parse-config"
+}
